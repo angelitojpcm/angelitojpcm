@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola 👋, Soy Angel Calderon Mantilla</h1>
-<h3 align="center">Un apasionado desarrollador fullstack de Perú</h3>
+<h3 align="center">Estudiante de Ingeniería de Software en SENATI Perú, apasionado por el desarrollo Full Stack</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=angelitojpcm&label=Profile%20views&color=0e75b6&style=flat" alt="angelitojpcm" />
